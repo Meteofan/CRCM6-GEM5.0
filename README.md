@@ -23,11 +23,17 @@ The CRCM6/GEM5 code is distributed under the following licenses:
 3) REFERENCES
 
 	•	Côté, J., Gravel, S., Méthot, A., Patoine, A., Roch, M., and Staniforth, A. (1998). The operational CMC-MRB global environmental multiscale (GEM) model. Part I: Design considerations and formulation. Mon. Weather Rev. 126, 1373–1395. doi:10.1175/1520-0493(1998)126<1373:TOCMGE>2.0.CO;2.
+
 	•	Girard, C., Plante, A., Desgagné, M., Mctaggart-Cowan, R., Côté, J., Charron, M., et al. (2014). Staggered vertical discretization of the canadian environmental multiscale (GEM) model using a coordinate of the log-hydrostatic-pressure type. Mon. Weather Rev. 142, 1183–1196. doi:10.1175/MWR-D-13-00255.1.
+
 	•	Martynov A, Sushama L, Laprise R, et al (2012) Interactive lakes in the Canadian Regional Climate Model, version 5: The role of lakes in the regional climate of North America. Tellus, Ser A Dyn Meteorol Oceanogr 64:0–22. https://doi.org/10.3402/tellusa.v64i0.16226
+
 	•	Mironov D, Heise E, Kourzeneva E, et al (2010) Implementation of the lake parameterisation scheme FLake into the numerical weather prediction model COSMO. Boreal Environ Res 15:218–230
+
 	•	McTaggart-Cowan, R., Vaillancourt, P. A., Zadra, A., Chamberland, S., Charron, M., Corvec, S., et al. (2019a). Modernization of Atmospheric Physics Parameterization in Canadian NWP. J. Adv. Model. Earth Syst. 11, 3593–3635. doi:10.1029/2019MS001781.
+
 	•	Verseghy, D. L.: CLASS – A Canadian land surface scheme for GCMs. I. Soil model, Int. J. Climatol., 11(2), 111–133, 1991.
+
 	•	Verseghy, D. L., McFarlane, N. A. and Lazare, M.: CLASS – A Canadian land surface scheme for GCMs, II. Vegetation model and coupled runs, Int. J. Climatol., 13(4), 347–370, 1993.
 	•	Verseghy, D. L.: The Canadian land surface scheme (CLASS): Its history and future, Atmosphere-Ocean, 38(1), 1–13, 2000.
 	•	Verseghy, D.: CLASS – The Canadian land surface scheme, Climate Research Division, Science and Technology Branch, Environment Canada., 2017.
