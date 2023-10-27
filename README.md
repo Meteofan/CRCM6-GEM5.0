@@ -6,8 +6,10 @@ This README file briefly describes the CRCM6/GEM5 code.
 1) OVERVIEW OF THE CODE
 
 The CRCM6/GEM5 code is based on multiple model codes, including:
-1.1) Version 5 of the Global Environmental Multiscale (GEM) model developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada (ECCC). References describing various aspects of the model include: Côté et al. (1998), Girard et al. (2014) and McTaggart-Cowan et al. (2019). McTaggart-Cowan et al. (2019) provides a comprehensive description of the model.
+1.1) Version 5.0 of the Global Environmental Multiscale (GEM) model developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada (ECCC). References describing various aspects of the model include: Côté et al. (1998), Girard et al. (2014) and McTaggart-Cowan et al. (2019). McTaggart-Cowan et al. (2019) provides a comprehensive description of the model.
+
 1.2) Version 3.6.2 of the Canadian Land Surface Scheme developed predominantly within ECCC with the exception of an organized community effort as part of the Canadian Climate Research Network (1994 – 1997; Verseghy, 2000) as well as ad-hoc collaborations with the broader research community. References describing various aspects of the model include: Verseghy (1991), Verseghy et al. (1993), Verseghy (2000) and Verseghy (2017).
+
 1.3) The FLake model. References describing some aspects of the model and its implementation into the CRCM model include Mironov (2010) and Martynov et al. (2012).
 
 
@@ -35,5 +37,7 @@ The CRCM6/GEM5 code is distributed under the following licenses:
 	•	Verseghy, D. L.: CLASS – A Canadian land surface scheme for GCMs. I. Soil model, Int. J. Climatol., 11(2), 111–133, 1991.
 
 	•	Verseghy, D. L., McFarlane, N. A. and Lazare, M.: CLASS – A Canadian land surface scheme for GCMs, II. Vegetation model and coupled runs, Int. J. Climatol., 13(4), 347–370, 1993.
+
 	•	Verseghy, D. L.: The Canadian land surface scheme (CLASS): Its history and future, Atmosphere-Ocean, 38(1), 1–13, 2000.
+
 	•	Verseghy, D.: CLASS – The Canadian land surface scheme, Climate Research Division, Science and Technology Branch, Environment Canada., 2017.
