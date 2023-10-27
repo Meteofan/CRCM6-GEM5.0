@@ -6,6 +6,7 @@ This README file briefly describes the CRCM6/GEM5 code.
 1) OVERVIEW OF THE CODE
 
 The CRCM6/GEM5 code is based on multiple model codes, including:
+
 1.1) Version 5.0 of the Global Environmental Multiscale (GEM) model developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada (ECCC). References describing various aspects of the model include: Côté et al. (1998), Girard et al. (2014) and McTaggart-Cowan et al. (2019). McTaggart-Cowan et al. (2019) provides a comprehensive description of the model.
 
 1.2) Version 3.6.2 of the Canadian Land Surface Scheme developed predominantly within ECCC with the exception of an organized community effort as part of the Canadian Climate Research Network (1994 – 1997; Verseghy, 2000) as well as ad-hoc collaborations with the broader research community. References describing various aspects of the model include: Verseghy (1991), Verseghy et al. (1993), Verseghy (2000) and Verseghy (2017).
