@@ -1,11 +1,11 @@
-CRCM6/GEM5 README
+CRCM6/GEM5.0 README
 
-This README file briefly describes the CRCM6/GEM5 code.
+This README file briefly describes the CRCM6/GEM5.0 code.
 
 
 1) OVERVIEW OF THE CODE
 
-The CRCM6/GEM5 code is based on multiple model codes, including:
+The CRCM6/GEM5.0 code is based on multiple model codes, including:
 
 1.1) Version 5.0 of the Global Environmental Multiscale (GEM) model developed by the Atmospheric Numerical Prediction Research Section, Meteorological Research Division, of Environment and Climate Change Canada (ECCC). References describing various aspects of the model include: Côté et al. (1998), Girard et al. (2014) and McTaggart-Cowan et al. (2019). McTaggart-Cowan et al. (2019) provides a comprehensive description of the model.
 
@@ -16,7 +16,7 @@ The CRCM6/GEM5 code is based on multiple model codes, including:
 
 2) OVERVIEW OF LICENCES
 
-The CRCM6/GEM5 code is distributed under the following licenses:
+The CRCM6/GEM5.0 code is distributed under the following licenses:
 2.1) The GEM dynamics software is licensed under the LGPL version 2.1. This license permits UQAM to use, copy, modify and distribute the GEM dynamics software subject to compliance with the LGPL version 2.1 license.
 2.2) The GEM physics software is licensed under the Environment Canada - Atmospheric Science and Technology License/Disclaimer, version 3 (May 7, 2008). This license permits UQAM to use, copy, modify, improve and distribute the GEM physics software, and any derivative works thereof (including software outputs), and its supporting documentation for any purpose whatsoever, except for commercial sales.
 2.3) The CLASS model is now distributed as part of the Canadian Land Surface Scheme Including Biogeochemical Cycles (CLASSIC). CLASSIC is distributed under the Open Government License - Canada (http://data.gc.ca/eng/open-government-licence-canada) and the GNU General Public License version 2. Also note that some portions of xml-fortran (http://xml-fortran.sourceforge.net) have been used in the CLASSIC code. 
